@@ -1,2 +1,5 @@
 # ExcuseGen
-ai powered excuse generator website
+AI powered excuse generator website<br/>
+made for Natural Language Processing(AAT3020) final project
+
+
