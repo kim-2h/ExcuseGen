@@ -1,0 +1,53 @@
+/* 전체 카드 */
+.card {
+  width: 420px;        /* 카드 너비 */
+  padding: 30px;       /* 카드 내부 여백 */
+  border-radius: 16px;
+}
+
+/* 입력 박스 */
+.input-grid input {
+  width: 60px;         /* input 크기 */
+  height: 38px;
+  font-size: 14px;
+  padding: 8px 10px;
+}
+
+/* Tone 라디오 버튼 그룹 */
+.tone-group {
+  gap: 10px;           /* 라디오 간격 */
+  font-size: 14px;
+}
+.tone-group label {
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+/* 슬라이더 */
+.slider-group input[type="range"] {
+  height: 6px;         /* 슬라이더 높이 */
+  color: #3478f6;
+}
+
+/* 체크 버튼 (가운데) */
+.check-btn {
+  width: 140px;
+  height: 70px;
+  font-size: 15px;
+  border-radius: 35px;
+}
+
+/* 결과창 */
+.result-box textarea {
+  font-size: 14px;
+  padding: 12px;
+  height: 160px;
+}
+
+/* Try Again 버튼 */
+.try-again {
+  width: 120px;
+  height: 40px;
+  font-size: 14px;
+  border-radius: 8px;
+}
